@@ -1,0 +1,1 @@
+This project is designed for people who are looking for jobs. I want to build it because it will help me improve my programming skills while also helping job seekers find better work opportunities.
